@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:scratch/authfiles/auth.dart';
-import 'package:scratch/authfiles/dash.dart';
 import 'package:scratch/screens/home.dart';
 import 'package:scratch/authfiles/register.dart';
 
