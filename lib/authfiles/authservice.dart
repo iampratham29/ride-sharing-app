@@ -1,8 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:scratch/authfiles/phoneverifi.dart';
-import 'package:scratch/authfiles/signIn.dart';
-import 'dashboard.dart';
 
 
 class AuthService1 {
