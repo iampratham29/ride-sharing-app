@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:scratch/main.dart';
 import 'package:scratch/authfiles/register.dart';
 import 'package:scratch/authfiles/signIn.dart';
 
