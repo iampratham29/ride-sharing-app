@@ -74,7 +74,7 @@ class _MapState extends State<Map>
             mapController=controller;
         });
     }
-}  
+  
     void _onCameraMove(CameraPosition position)
     {
         setState(()
